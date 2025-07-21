@@ -1,0 +1,11 @@
+diffusers
+torchsde
+pytorch_lightning
+transformers
+accelerate
+soundfile
+einops
+librosa
+numpy
+torch 
+tqdm
